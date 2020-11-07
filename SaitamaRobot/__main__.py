@@ -56,7 +56,7 @@ Hi {}, my name is {}!
 I AM YOUR ❤️ LOVELY BOT ❤️ POWERFULLY RELOADED TO CONTROL  YOUR GROUPS  AND YOU TO💉💉❤️
 
 MY CREATOR 
-[THIS LEGEND](@mbbs_lover)
+[THIS LEGEND](t.me/mbbs_lover)
 You can find my list of available commands with /help.
 """
 
