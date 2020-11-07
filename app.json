@@ -1,14 +1,13 @@
-{
-      "name": "MBBS BOT",
-      "description": "An TELEGRAM MANAGEMENT BOT SPECIFICALLY FOR MBBS.",
-      "logo": "https://telegra.ph/file/28a95b5fc8a54ae2eb000.jpg"
-      "keywords":[
+{     "logo": "https://telegra.ph/file/28a95b5fc8a54ae2eb000.jpg"
+      "name": "SaitamaRobot",
+      "description": "An Anime themed Telegram group management bot.",
+      "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "MBBS"
-      ],   
+         "Saitama"
+      ],  
    "repository": "https://github.com/THUGOFFICIALS/SaitamaRobot",
    "addons": [
       {
