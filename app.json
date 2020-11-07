@@ -1,14 +1,14 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "MBBS BOT",
+      "description": "An TELEGRAM MANAGEMENT BOT SPECIFICALLY FOR MBBS.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Saitama"
+         "MBBS"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/THUGOFFICIALS/SaitamaRobot",
    "addons": [
       {
          "options": {
