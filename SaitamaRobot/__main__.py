@@ -53,10 +53,12 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I AM YOUR ❤️ LOVELY BOT ❤️ POWERFULLY RELOADED TO CONTROL  YOUR GROUPS  AND YOU TO💉💉❤️
+I ÃM YØUR ❤️LÖVELY FIGHTER BÖT™
+ ❤️ PÕwErfuLLY RELOADED TO CøNTRØL YÖúR GRøUPS  AñD YÕU TØ💉💉❤️
 
-MY CREATOR 
-[THIS LEGEND](t.me/mbbs_lover)
+  ▂▃▅▆😈MY CREATOR😈▆▅▃▂
+👇👇👇
+🔱╚»★@MBBS_LOVER★«╝🔱
 You can find my list of available commands with /help.
 """
 
