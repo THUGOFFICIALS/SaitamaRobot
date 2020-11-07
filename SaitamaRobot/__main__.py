@@ -53,7 +53,10 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an SPECIAL GRP MANAGEMENT BOT BY [MBBS LVR](@mbbs_lover.
+I AM YOUR ❤️ LOVELY BOT ❤️ POWERFULLY RELOADED TO CONTROL  YOUR GROUPS  AND YOU TO💉💉❤️
+
+MY CREATOR 
+[THIS LEGEND](@mbbs_lover)
 You can find my list of available commands with /help.
 """
 
